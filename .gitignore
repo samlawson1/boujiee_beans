@@ -3,6 +3,21 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+#Data Files
+*.csv
+*.txt
+*.xlsx
+*.json
+
+#Ignore markdown except README
+.md
+!README.md
+
+#Data Folder
+data/
+Data/
+DATA/
+
 # C extensions
 *.so
 
