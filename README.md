@@ -29,5 +29,5 @@ The CTO has given you a limited dataset to work with. The dataset is a list of n
 
 1. What percentage of customers were affected by the bug? What percentage of customers experienced incorrect orders caused by the bug?
 2. How much money did the company lose through discounts in January because of the bug?
-3. Boujiee Benji's had targeted a 14% customer increase and a 20% revenue increase by the end of the year. Instead, viral TikToks resulting from the bug caused customer growth to be only 6% and revenue growth to be 9%. Quantify how the bug affected the company's growth goals.
+3. Boujiee Benji's had targeted a 14% monthly customer increase and a 20% monthly revenue increase by the end of the year. Instead, viral TikToks resulting from the bug caused customer growth to be only 6% and revenue growth to be 9%. Quantify how the bug affected the company's growth goals.
 4. The CEO of Boujiee Benji's video calls you on Teams, without messaging first, and tells you that they think the CTO is hiding something. They suspect the CTO has hidden 20% of the customers affected by the bug from you. The CEO want's you to re-answer question 2, with the assumption that each hidden customer ordered 3 bags of beans in January.
